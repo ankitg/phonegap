@@ -1,0 +1,11 @@
+{
+    "cordova-plugin-crosswalk-webview": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/phonegap-build/cordova-plugin-crosswalk-webview.git",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
